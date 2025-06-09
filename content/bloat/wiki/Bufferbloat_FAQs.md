@@ -3,6 +3,7 @@ title: Bufferbloat FAQs
 date: 2024-12-01T09:10:12
 lastmod: 2025-06-07T09:10:12
 type: wiki
+toc: false
 ---
 # Bufferbloat FAQs
 
@@ -326,9 +327,13 @@ with other network experts (see
 to show how surprising it was that routers would queue far more
 data than they could send in a reasonable time.
 
-In 2012, CoDel was invented in response the newly-named "bufferbloat".
-In the decade since, the fq_codel, CAKE, and cake-autorate
-open-source algorithms have been proven to minimize latency.
+In 2012, 
+CoDel (for "controlled delay",
+pronounced "coddle", because it treats network streams gently)
+was invented in response the newly-named "bufferbloat".
+In the decade since, the CoDel algorithm was enhanced to produce
+the fq_codel, CAKE, and cake-autorate open-source algorithms
+that have been proven to minimize latency.
 
 Today, there's no excuse for router vendors not to
 incorporate this technology.
