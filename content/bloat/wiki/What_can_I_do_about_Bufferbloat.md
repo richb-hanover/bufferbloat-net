@@ -1,7 +1,7 @@
 ---
 title: What Can I Do About Bufferbloat?
 date: 2017-03-10T09:10:12
-lastmod: 2024-12-02T08:29:01
+lastmod: 2026-01-26T21:15:01
 type: wiki
 aliases:
     - /bloat/wiki/What_to_do_about_Bufferbloat/
