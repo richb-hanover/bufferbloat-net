@@ -31,6 +31,7 @@ the line is idle _and_ during upload or download traffic.
 * [Waveform Bufferbloat Test](https://www.waveform.com/tools/bufferbloat)
 * [Speedtest.net Test](https://speedtest.net)
 * [Cloudflare Speed Test](https://speed.cloudflare.com)
+* [LibreQoS Bufferbloat Test](https://bufferbloat.libreqos.com/)
 
 If the test shows latency below 15-25 msec, it means that
 bufferbloat is under control.
