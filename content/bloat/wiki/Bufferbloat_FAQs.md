@@ -1,14 +1,14 @@
 ---
 title: Bufferbloat FAQs
 date: 2024-12-01T09:10:12
-lastmod: 2025-06-07T09:10:12
+lastmod: 2026-02-16T09:10:12
 type: wiki
 toc: false
 ---
 # Bufferbloat FAQs
 
-We answer these questions all the time,
-so we collect them here for reference.
+We hear these questions all the time,
+so we collect the answers here for reference.
 
 Answers are grouped into
 [solutions for bufferbloat](#tldr---solutions-for-bufferbloat),
@@ -362,7 +362,7 @@ Maybe that router's not as good as their advertising says...
 ### Question #4.12: I can't believe you’re telling me that a bunch of academics have come up with a better algorithm than commercial router developers - that company who sold me that \$300 router?
 
 Well, the SQM algorithms seem to solve the problem
-when they are used in place of vendor firmware…
+when they replace the vendor firmware…
 
 ### Question #4.13: And then you say that I should just install some “open source firmware”? What the heck is that? And why should I believe you?
 
